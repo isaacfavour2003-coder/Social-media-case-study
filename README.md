@@ -6,7 +6,9 @@
 A sample content plan I created to show how a small business can plan a full month of social media posts.
 
 **Example business:** Sweet Crumbs Bakery (a fictional home bakery selling cakes, cupcakes and small-chops)
+
 **Platforms:** Instagram (main), WhatsApp Status, TikTok
+
 **Prepared by:** Isaac Favour Chimdinma
 
 > This is a practice project using a made-up business. It shows my planning process and the way I think about content.
